@@ -10939,3 +10939,20 @@ Already up to date.
 [INFO 2024-11-25_20:11:59] TML Solution Studio: git add . Status: 
 [INFO 2024-11-25_20:11:59] TML Solution Studio: git commit -a Status for project gosavisiddhesh-1865: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-11-25_20:12:00] TML Solution Studio: git push Status for project gosavisiddhesh-1865: Everything up-to-date
+[INFO 2024-11-28_20:33:11] TML Solution Studio Started: DOCKERUSERNAME=gosavisiddhesh, GITUSERNAME=gosavisiddhesh, GITREPOURL=https://github.com/gosavisiddhesh/raspberrypi, AIRFLOWPORT=9000
+[INFO 2024-11-28_20:33:12] TML Solution Studio: Docker Login Status: WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2024-11-28_20:33:12] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/gosavisiddhesh/raspberrypi
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/gosavisiddhesh/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-11-28_20:33:12] TML Solution Studio: Github Remote Status: origin	https://github.com/gosavisiddhesh/raspberrypi (fetch)
+origin	https://<personal access token hidden>@github.com/gosavisiddhesh/raspberrypi.git (push)
