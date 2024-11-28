@@ -10987,3 +10987,4 @@ origin	https://<personal access token hidden>@github.com/gosavisiddhesh/raspberr
 [INFO 2024-11-28_21:47:45] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-gosavisiddhesh-1865.py
 [INFO 2024-11-28_21:47:48] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-gosavisiddhesh-1865.py
 [INFO 2024-11-28_21:47:52] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-gosavisiddhesh-1865.py
+[INFO 2024-11-28_21:47:55] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-gosavisiddhesh-1865.py
